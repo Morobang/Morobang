@@ -93,7 +93,7 @@ I am a data analyst with a passion for transforming raw data into actionable ins
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Morobang&theme=react-dark" alt="Morobang's GitHub Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morobang&theme=react-dark" alt="Morobang's GitHub Activity Graph" width="90%" />
 </p>
 
 ---
