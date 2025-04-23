@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morobang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Morobang&theme=highcontrast" alt="GitHub Streak"/>
-</p>
-
 
 ---
 
@@ -66,9 +62,11 @@
 ---
 
 ### **📊 GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Morobang&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Morobang&show_icons=true&locale=en" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Morobang&show_icons=true&theme=react&hide_border=true" alt="Morobang's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morobang&theme=react&hide_border=true" alt="Morobang's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morobang&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 
