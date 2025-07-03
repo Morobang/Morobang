@@ -8,8 +8,13 @@
 
 ---
 
-### 📈 About Me
-I am a data analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Python, SQL, and Power BI, I am focused on building data-driven solutions that help businesses make informed decisions. Currently, I am diving into full-stack development to expand my skill set and enhance my ability to develop end-to-end data solutions.
+## 🔍 **About Me**
+I'm a passionate **data professional** from Pretoria, South Africa, specializing in transforming complex data into actionable insights. My expertise lies in:
+
+- **Data Analysis & Visualization** (Power BI, Tableau, Excel)
+- **Database Management** (SQL, PostgreSQL, MySQL)
+- **Data Processing** (Python, Pandas, NumPy)
+- **Cloud Data Solutions** (AWS, Snowflake - Currently learning)
 
 ---
 
@@ -34,46 +39,27 @@ I am a data analyst with a passion for transforming raw data into actionable ins
 </p>
 
 ---
-### 🛠️ Languages & Tools
+## 🛠️ **Technical Skills**
 
-#### Programming Languages & Frameworks
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-</p>
+### **📈 Data Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-#### Data Analysis & Visualization
-<p align="center">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-  </a>
-</p>
+### **💾 Databases & Querying**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Cloud Computing & DevOps
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/>
-  </a>
-</p>
+### **🐍 Data Processing**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **☁ Cloud & Big Data (Learning)**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
 
 
 ---
