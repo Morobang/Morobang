@@ -22,22 +22,18 @@ I'm a passionate **data professional** from Pretoria, South Africa, specializing
 
 ---
 
- ## 📚 **Currently Learning**
-- Advanced SQL (Query optimization, window functions)
-- Data warehouse concepts
-- AWS Data Services (Redshift, Glue)
-
+## 🧠 What I Can Do for You
+- Build **insightful dashboards** that tell stories using Power BI & Tableau.
+- Clean, analyze, and model data with **SQL & Python**.
+- Design scalable data workflows and pipelines using **AWS & modern warehousing** concepts.
+- Turn **business problems** into **data-driven decisions**.
 
 ---
 
-### **🔗 Connect with Me**
-<p align="left">
-  <a href="https://www.linkedin.com/in/morobang-tshigidimisa-84172b26b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a> <a href="https://www.instagram.com/morobang_tshigidimisa/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## 🧭 Learning Journey: From Analyst to Data Engineer
+- 📊 Mastered: Excel, Power BI, SQL, Python (Pandas & NumPy)
+- 🚀 Currently Learning: Advanced SQL, AWS Redshift & Glue, Data Modeling
+- 🎯 Next: Streaming data (Kinesis), Airflow, dbt, Machine Learning (basic)
 
 ---
 ## 🛠️ **Technical Skills**
