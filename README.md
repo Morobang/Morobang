@@ -22,7 +22,11 @@ I'm a passionate **data professional** from Pretoria, South Africa, specializing
 
 ---
 
- 
+ ## 📚 **Currently Learning**
+- Advanced SQL (Query optimization, window functions)
+- Data warehouse concepts
+- AWS Data Services (Redshift, Glue)
+
 
 ---
 
