@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morobang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=Turning+Raw+Data+Into+Business+Value;Data+Storyteller+%26+Analytics+Enthusiast" alt="Typing Effect" />
+</p>
+
 
 
 ---
