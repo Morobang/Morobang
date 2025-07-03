@@ -22,14 +22,7 @@ I'm a passionate **data professional** from Pretoria, South Africa, specializing
 
 ---
 
-### **🌱 What I'm Currently Learning**
-- 🚀 **Power BI + Tableau + Excel**
-- 🌐 **Full Stack Development (HTML, CSS, JavaScript)**
-- ☁ **AWS & Cloud Computing**
-
-### **📩 How to Reach Me**
-📧 **Email:** morobangtshigidimisa@gmail.com  
-📞 **Phone:** +27 72 302 7503  
+ 
 
 ---
 
@@ -84,6 +77,20 @@ I'm a passionate **data professional** from Pretoria, South Africa, specializing
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morobang&theme=react-dark" alt="Morobang's GitHub Activity Graph" width="90%" />
+</p>
+
+---
+## 📫 **Let's Connect**
+<p align="center">
+  <a href="mailto:morobangtshigidimisa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/morobang-tshigidimisa-84172b26b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/morobang_tshigidimisa/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
