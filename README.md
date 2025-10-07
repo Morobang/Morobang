@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morobang Tshigidimisa</h1>
-<h3 align="center">Data Engineer | M### 🎯 **My Unique Approach**
-I don't just do data engineering OR machine learning OR analysis - I combine all three with a strong database foundation to create **complete, end-to-end data solutions** that are both scalable and intelligent.rning Practitioner | Cloud Data Architect</h3>
+<h3 align="center">Data Engineer | Machine Learning Practitioner | Cloud Data Architect
+I don't just do data engineering OR machine learning OR analysis - I combine all three with a strong database foundation to create complete, end-to-end data solutions that are both scalable and intelligent.rning Practitioner | Cloud Data Architect</h3>
 <h4 align="center">🌍 Pretoria, South Africa | 🌐 <a href="https://morobangtshigidimisa.vercel.app" target="_blank">Portfolio</a></h4>
 
 <p align="center">
