@@ -164,6 +164,17 @@ CryptoLens                        →  Bronze/Silver/Gold pipeline + market regi
 </picture>
 
 <details>
+
+```html
+## GitHub Snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Morobang/Morobang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Morobang/Morobang/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Morobang/Morobang/output/github-snake.svg" />
+</picture>
+```
+
 <summary>⚙️ Enable the snake (5 min setup)</summary>
 
 Create `.github/workflows/snake.yml` in this repo:
