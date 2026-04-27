@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=5BCDEC&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+ML+Practitioner+%7C+Cloud+Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=5BCDEC&center=true&vCenter=true&width=650&height=45&lines=Data+Engineer;ML+Practitioner;Cloud+Architect;AWS+Certified+%C3%972;Open+to+Senior+Roles" />
 
 <br/><br/>
 
-🌍 Pretoria, South Africa &nbsp;·&nbsp; 🟢 Open to Work &nbsp;·&nbsp; ⚡ Data + ML Systems Builder
+📍 Pretoria, South Africa  ·  Data Engineer & ML Practitioner  ·  AWS Certified ×2  ·  🟢 Open to Opportunities
 
 <br/><br/>
 
@@ -31,11 +31,21 @@
 
 ## Who I Am
 
-I fell in love with data through **SQL** — the feeling of writing a query that actually *answers* something hooked me early. That obsession grew into cloud engineering, machine learning, and building full products that surface data in ways real people use.
+I fell in love with data through mathematics — the moment I realised that the right query,
+like the right equation, can cut through noise and actually *answers* something.
 
-I'm competitive by nature. I don't believe in being disadvantaged by what I wasn't taught — if I don't know something, that's on me to fix. I surround myself with people who are sharper than me, learn fast, and keep raising my own bar.
+That foundation led me through an Honours in Computer Science and a BSc in Mathematical
+Science at the University of Limpopo, into cloud engineering, machine learning, and
+production systems. Today I design AWS data pipelines at Itthynk Smart Solutions and hold
+two AWS certifications. My work spans the full stack: multi-layer data warehouses, fraud
+detection models, match outcome predictors, and BI dashboards built for real decisions —
+not demos.
 
-> *Production-ready data pipelines on AWS. ML where it drives real value. Databases that don't break at scale.*
+I'm based in Pretoria, South Africa, and actively looking to grow into a senior data
+engineering or data science role. I don't wait to be taught — if there's a gap between
+where I am and where I need to be, that's a schedule, not an excuse.
+
+> *Production-ready pipelines on AWS. ML where it drives real value. Systems built to last.*
 
 ---
 
