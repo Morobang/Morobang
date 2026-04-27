@@ -165,7 +165,7 @@ CryptoLens                        →  Bronze/Silver/Gold pipeline + market regi
 
 <details>
 
-```html
+
 ## GitHub Snake 🐍
 
 <picture>
@@ -173,7 +173,7 @@ CryptoLens                        →  Bronze/Silver/Gold pipeline + market regi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Morobang/Morobang/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Morobang/Morobang/output/github-snake.svg" />
 </picture>
-```
+
 
 <summary>⚙️ Enable the snake (5 min setup)</summary>
 
