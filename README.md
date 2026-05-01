@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=5BCDEC&center=true&vCenter=true&width=650&height=45&lines=Data+Engineer;ML+Practitioner;Cloud+Architect;AWS+Certified+%C3%972;Open+to+Senior+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=5BCDEC&center=true&vCenter=true&width=650&height=45&lines=Data+Engineer;Data+Scientist;AWS+Certified+%C3%972;ETL+Pipeline+Builder;Open+to+Opportunities" />
 
 <br/><br/>
 
-📍 Pretoria, South Africa  ·  Data Engineer & ML Practitioner  ·  AWS Certified ×2  ·  🟢 Open to Opportunities
+📍 Pretoria, South Africa  ·  Data Engineer & Data Scientist  ·  AWS Certified ×2  ·  🟢 Open to Opportunities
 
 <br/><br/>
 
@@ -36,14 +36,14 @@ like the right equation, can cut through noise and actually *answers* something.
 
 That foundation led me through an Honours in Computer Science and a BSc in Mathematical
 Science at the University of Limpopo, into cloud engineering, machine learning, and
-production systems. Today I design AWS data pipelines at Itthynk Smart Solutions and hold
-two AWS certifications. My work spans the full stack: multi-layer data warehouses, fraud
-detection models, match outcome predictors, and BI dashboards built for real decisions —
-not demos.
+production data systems. I design AWS data pipelines at Itthynk Smart Solutions, hold
+two AWS certifications (Cloud Practitioner + Data Engineer – Associate), and five AWS
+Partner credentials. My work spans the full stack: cloud-based ETL pipelines, data
+warehouses, machine learning models, and BI dashboards built for real decisions — not demos.
 
-I'm based in Pretoria, South Africa, and actively looking to grow into a senior data
-engineering or data science role. I don't wait to be taught — if there's a gap between
-where I am and where I need to be, that's a schedule, not an excuse.
+I'm based in Pretoria, South Africa, and actively looking for a Data Engineer or Data
+Scientist role. I don't wait to be taught — if there's a gap between where I am and
+where I need to be, that's a schedule, not an excuse.
 
 > *Production-ready pipelines on AWS. ML where it drives real value. Systems built to last.*
 
@@ -92,19 +92,19 @@ where I am and where I need to be, that's a schedule, not an excuse.
 <div align="center">
 
 ### ☁️ Data Engineering
-`AWS` `Spark` `Kafka` `dbt` `Databricks` `n8n` `Glue` `Lambda` `Redshift`
+`AWS S3` `AWS Glue` `AWS Redshift` `AWS Lambda` `Step Functions` `n8n` `ETL Pipelines`
 
-### 🤖 Machine Learning
-`Python` `scikit-learn` `TensorFlow` `PyTorch` `Pandas` `NumPy` `Prophet`
+### 🤖 Machine Learning & Statistics
+`Python` `scikit-learn` `TensorFlow` `Pandas` `NumPy` `Prophet` `ARIMA` `Feature Engineering`
 
 ### 🗄️ Databases
-`PostgreSQL` `MySQL` `SQL Server` `Supabase` `MongoDB` `Redis`
+`PostgreSQL` `MySQL` `SQL Server` `Supabase` `MongoDB`
 
-### 📊 Analytics
+### 📊 Analytics & BI
 `Power BI` `Tableau` `Jupyter` `Matplotlib` `Seaborn`
 
-### 🌐 Full-Stack
-`Next.js` `TypeScript` `React` `Flask` `Streamlit` `Git`
+### 🌐 Dev & Deployment
+`Next.js` `TypeScript` `React` `Flask` `Streamlit` `Git` `GitHub`
 
 </div>
 
@@ -139,7 +139,7 @@ where I am and where I need to be, that's a schedule, not an excuse.
       <br/>
       <img src="https://progress-bar.dev/100/?width=200&color=FF9900&title=Verified"/>
       <br/>
-      <sub>✅ Earned 2024</sub>
+      <sub>✅ Earned June 2025 · Valid to 2028</sub>
       <br/><br/>
     </td>
     <td align="center" width="250">
@@ -148,7 +148,7 @@ where I am and where I need to be, that's a schedule, not an excuse.
       <br/>
       <img src="https://progress-bar.dev/100/?width=200&color=FF9900&title=Verified"/>
       <br/>
-      <sub>✅ Earned 2024</sub>
+      <sub>✅ Earned Feb 2025 · Valid to 2028</sub>
       <br/><br/>
     </td>
     <td align="center" width="250">
@@ -157,7 +157,35 @@ where I am and where I need to be, that's a schedule, not an excuse.
       <br/>
       <img src="https://progress-bar.dev/100/?width=200&color=4CAF50&title=Completed"/>
       <br/>
-      <sub>✅ Completed 2024</sub>
+      <sub>✅ Completed</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+### AWS Partner Credentials
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <br/>
+      <img src="https://img.shields.io/badge/AWS_Partner-Accreditation_(Technical)-FF9900?style=flat-square&logo=amazonaws&logoColor=black"/>
+      <br/>
+      <sub>✅ March 2025</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="250">
+      <br/>
+      <img src="https://img.shields.io/badge/AWS_Partner-Cloud_Economics-FF9900?style=flat-square&logo=amazonaws&logoColor=black"/>
+      <br/>
+      <sub>✅ March 2025</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="250">
+      <br/>
+      <img src="https://img.shields.io/badge/AWS_Partner-Sales_Accreditation-FF9900?style=flat-square&logo=amazonaws&logoColor=black"/>
+      <br/>
+      <sub>✅ March 2025</sub>
       <br/><br/>
     </td>
   </tr>
@@ -170,13 +198,16 @@ where I am and where I need to be, that's a schedule, not an excuse.
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morobang&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=c9d1d9&rank_icon=github" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morobang&theme=github-dark-blue&hide_border=true&background=0d1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morobang&theme=github-dark-blue&hide_border=true&background=0d1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="60%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morobang&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9&langs_count=6" width="44%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Morobang&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" width="95%" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morobang&theme=react-dark&hide_border=true&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=ffffff&area=true&area_color=5BCDEC&custom_title=📊%20Contribution%20Activity&height=250&radius=8" width="95%" />
@@ -196,7 +227,7 @@ where I am and where I need to be, that's a schedule, not an excuse.
 
 <div align="center">
 
-**Open to data engineering, ML engineering, and analyst roles**
+**Open to data engineering, data science, and analyst roles**
 
 <br/>
 
