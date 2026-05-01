@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=5BCDEC&center=true&vCenter=true&width=650&height=45&lines=Data+Engineer;Data+Scientist;AWS+Certified+%C3%972;ETL+Pipeline+Builder;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=5BCDEC&center=true&vCenter=true&width=650&height=45&lines=Data+Engineer;Data+Scientist;AWS+Certified+%C3%972;ETL+Pipeline+Builder;ML+Practitioner;SQL+%26+Python+Expert;Cloud+Data+Engineer;Honours+in+Computer+Science;Open+to+Opportunities" />
 
 <br/><br/>
 
