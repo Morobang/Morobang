@@ -62,10 +62,14 @@ where I need to be, that's a schedule, not an excuse.
 
 ---
 
-## Data Pipeline
+## ETL Pipeline Architecture
 
 <div align="center">
   <img src="etl-pipeline.svg" alt="Animated ETL Data Pipeline" width="960"/>
+</div>
+
+<div align="center">
+  <sub>Live animated pipeline — built with pure SVG · reflects actual AWS stack in use</sub>
 </div>
 
 ---
